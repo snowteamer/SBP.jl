@@ -1,0 +1,13 @@
+name = "SBP"
+uuid = "66797799-57d8-47f6-a070-8f917fb8473f"
+authors = ["snowteamer <64228468+snowteamer@users.noreply.github.com> and contributors"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
